@@ -14,34 +14,32 @@ namespace API.Services
 
         public string CreateToken(UserAccount user)
         {
-            if(_config.GetValue<string>("TokenKey") is not null)
-            {
-                //set claims
-                var claims = new List<Claim>
+            if (_config.GetValue<string>("TokenKey") is null) 
+                return "TestWriteToken"; // for unit test
+
+            //set claims
+            var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, user.UserName),
                 new Claim(ClaimTypes.NameIdentifier, user.Id)
             };
 
-                var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config.GetValue<string>("TokenKey")));
-                var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config.GetValue<string>("TokenKey")));
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
 
-                var tokenDescriptor = new SecurityTokenDescriptor
-                {
-                    Subject = new ClaimsIdentity(claims),
-                    Expires = DateTime.UtcNow.AddMinutes(10),
-                    SigningCredentials = creds
-                };
+            var tokenDescriptor = new SecurityTokenDescriptor
+            {
+                Subject = new ClaimsIdentity(claims),
+                Expires = DateTime.UtcNow.AddMinutes(10),
+                SigningCredentials = creds
+            };
 
-                var tokenHandler = new JwtSecurityTokenHandler();
+            var tokenHandler = new JwtSecurityTokenHandler();
 
-                //create token
-                var token = tokenHandler.CreateToken(tokenDescriptor);
+            //create token
+            var token = tokenHandler.CreateToken(tokenDescriptor);
 
-                return tokenHandler.WriteToken(token);
-            }
-
-            return "TestWriteToken"; // fpr unit test
+            return tokenHandler.WriteToken(token);
         }
 
         public RefreshToken GenerateRefreshToken()

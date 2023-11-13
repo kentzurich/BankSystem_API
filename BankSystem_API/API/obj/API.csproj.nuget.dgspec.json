@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kentz\\Desktop\\BankSystem_API\\API\\API.csproj": {}
+    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kentz\\Desktop\\BankSystem_API\\API\\API.csproj": {
+    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\API\\API.csproj",
+        "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\API\\obj\\",
+        "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Application\\Application.csproj"
+              "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Application\\Application.csproj"
               },
-              "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Application\\Application.csproj": {
+    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Application\\obj\\",
+        "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,11 +128,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj"
+              "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj"
               }
             }
           }
@@ -184,14 +184,14 @@
         }
       }
     },
-    "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -213,8 +213,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj"
+              "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj"
               }
             }
           }
@@ -276,14 +276,14 @@
         }
       }
     },
-    "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -305,8 +305,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Application\\Application.csproj"
+              "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Application\\Application.csproj"
               }
             }
           }
@@ -340,14 +340,14 @@
         }
       }
     },
-    "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj": {
+    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\obj\\",
+        "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

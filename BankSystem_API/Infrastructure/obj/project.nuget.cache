@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9bBXyB2OSVPD/qSzdKnSRWu4YVwhwXhxcuVyAF8sUMLPRXtt+q8vmm0+ZbCLIlrQevMPaj5DwclOnB1nsb4CdQ==",
+  "dgSpecHash": "1JYgc02ZfsuuHD0Lk4sSCi74G575rEMUmXErk8Z0AvAn0dI/Uw9Q84dtmPtofqeCc/LJEs8TlXhg+DjdQE5WFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kentz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\kentz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

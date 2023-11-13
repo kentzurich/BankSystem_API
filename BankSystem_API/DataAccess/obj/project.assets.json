@@ -4002,11 +4002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4028,8 +4028,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj"
+            "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj"
             }
           }
         }

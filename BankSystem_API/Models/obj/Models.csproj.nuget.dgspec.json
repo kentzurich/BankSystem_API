@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj": {}
+    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj": {
+    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kentz\\Desktop\\BankSystem_API\\Models\\obj\\",
+        "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\BankSystem_API\\BankSystem_API\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
